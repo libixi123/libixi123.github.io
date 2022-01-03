@@ -1,37 +1,56 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/libixi123/libixi123.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# 奶业信息平台
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 📰**新闻资讯**
 
-### Markdown
+[**最新公开**](https://www.notion.so/e810a61826bd4badaa906d0346c9ea4a)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. **产业新闻**
+2. **企业动态**
+3. **技术论坛**
+4. **宏观经济**
 
-```markdown
-Syntax highlighted code block
+## 📊**行业统计**
 
-# Header 1
-## Header 2
-### Header 3
+1. **上游产业**
+2. **原料奶**
+3. **乳制品**
+4. **月报**
 
-- Bulleted
-- List
+## 🏛️**政策法规**
 
-1. Numbered
-2. List
+- **政策性文件**
+    
+    [**项目申报**](https://www.notion.so/24d341bcf0c649d7acd3e7d9a3ece532)
+    
+    [**规划计划**](https://www.notion.so/99389b95e48b4684ae000362811aa9e4)
+    
+- **规范性文件**
+    1. 公司设立变更
+    2. 土地
+    3. 畜禽养殖备案
+    4. 动物防疫
+    5. 生鲜乳收购
+    6. 种畜禽生产经营
+    7. 建设项目立项
+    8. 环保
+    9. 安全
+    10. 职业卫生
+    11. 能评
+    12. 取水
+    13. 水土保持
+    14. 防雷
+    15. 消防
+    16. 规划
+    17. 其他
 
-**Bold** and _Italic_ and `Code` text
+## 🏢**建议提案**
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/libixi123/libixi123.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. **全产业链、三产融合**
+2. **畜禽粪污资源化利用**
+3. **种质创新**
+4. **奶牛疾病**
+5. **奶牛营养**
+6. **盐碱地改良**
+7. **牧草种植**
